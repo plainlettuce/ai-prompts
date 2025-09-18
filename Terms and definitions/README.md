@@ -13,3 +13,6 @@
 - **Artificial Intelligence** (术语): The simulation of human intelligence in machines, enabling them to perform tasks such as learning, reasoning, and problem-solving.
 
 If you have a specific term you’d like defined, feel free to ask!
+
+
+# todo
